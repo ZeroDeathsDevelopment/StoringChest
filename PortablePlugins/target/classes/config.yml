@@ -1,0 +1,6 @@
+host: "localhost";
+database: "plugins";
+username: "root";
+password: "password";
+table: "storingchest";
+port: 3306;
